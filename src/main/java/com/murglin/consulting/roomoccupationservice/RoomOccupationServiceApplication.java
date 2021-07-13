@@ -1,4 +1,4 @@
-package com.murglin.consulting.Roomoccupationservice;
+package com.murglin.consulting.roomoccupationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

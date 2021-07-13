@@ -1,10 +1,14 @@
-package com.murglin.consulting.Roomoccupationservice.model;
+package com.murglin.consulting.roomoccupationservice.model;
 
+import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
+import lombok.ToString;
 
 import java.util.UUID;
 
 @RequiredArgsConstructor
+@EqualsAndHashCode
+@ToString
 public class Room {
 
     private final UUID id;
